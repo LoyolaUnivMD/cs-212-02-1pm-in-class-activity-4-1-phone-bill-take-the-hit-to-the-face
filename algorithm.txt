@@ -1,1 +1,24 @@
-THINK before you code...
+Ask what package they use
+    Error check the package to make sure user chose a correct option
+Ask the user how much data they used
+If the user has a blue package,
+    If the user used over 4GB of data,
+        Subtract 4GB from the user's data usage
+        Multiply the additional GB by $10 to get the additional costs
+        The user's monthly bill is $70 plus the additional costs
+    Otherwise,
+        Their monthly bill is $70
+Otherwise, if the user chose the purple package,
+    The user's monthly bill is $99.95
+Otherwise,
+        If the user uses more than 2GB,
+            Subtract 2GB from their data usage
+            Multiply $15 by the additional GB left to get the additional cost
+            Add the additional cost to the $49.99 to calculate their monthly bill
+            If the bill is greater than or equal to $75
+                Ask them if they have a coupon
+                Error check for their input
+                                If they do,
+                                    Take $20 off of their monthly  bill
+        Otherwise,
+            The user's monthly bill is $49.99

@@ -1,1 +1,7 @@
-Test cases go here. 
+           | Test Case 1                  | Test Case 2 | Test Case 3 | Test Case 4 | Test Case 5 | Test Case 6 | Test Case 7|
+------------------------------------------------------------------------------------------------------------------------------
+Package    | greEn                        | GREEn       | Green       | green       | blue        | bLuE        | PurPLe     |
+Data Usage | 3                            | 2           | 20          | 20          | 2           | 30          | 10000      |
+Coupon?    | N/A (bill didn't exceed $75) | N/A         | yes         | no          | N/A         | N/A         | N/A        |
+Bill Total | $64.99                       | $49.99      | $299.99     | $319.99     | $70.00      | $330.00     | $99.95     |
+
