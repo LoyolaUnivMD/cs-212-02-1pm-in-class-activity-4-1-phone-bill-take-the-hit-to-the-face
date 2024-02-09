@@ -1,5 +1,11 @@
+// Programmer: Gigi Li
+// Course: CS 212
+// Due Date: 2/8/24
+// "In-Class" Assignment: Phone Bill
+// Problem Statement: create a program where the user can check their monthly bill amount based on the subscription package and data usage
+// Data In: package type, data usage, has a coupon or not
+// Data Out: monthly bill amount
 //Credits: https://www.w3schools.com/java/ref_string_equalsignorecase.asp (Ignore case method)
-
 
 //import scanner and formatting
 import java.util.Scanner;
